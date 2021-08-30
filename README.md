@@ -64,7 +64,7 @@
 </p>
 </br>
 
-<img src="file:///C:/Users/DHEERAJ/Desktop/PicsArt_07-05-09.06.02.jpg" width="40%" align="right">
+<img src="PicsArt_07-05-09.06.02.jpg" width="40%" align="right">
 
 
 ### 💻
