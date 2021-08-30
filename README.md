@@ -44,10 +44,11 @@
 
 </br>
 
-<h2>Languages and Tools 🛠</h2>
+
 <p align='center'>
    <table align='center' width='250px'>
       <tr>
+        
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="C" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />&nbsp;&nbsp;</td>
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="C++" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
        <td width="250" align='center'>&nbsp;&nbsp;<img alt="Github" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />&nbsp;&nbsp;   <!-- <img alt="JavaScript" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> -->    </td>
@@ -59,8 +60,7 @@
       </tr>
       <tr>
 
-      </tr>
-      </table>
+      
 </p>
 </br>
 
@@ -70,11 +70,12 @@
 ### 💻
 - Graphic Designer At Codechef IIST Chapter.
 
-</br>
-
 <hr>
-
- </br>Please provide support by giving star if you liked it.</br>
+</br>Please provide support by giving star if you liked it.</br>
 🧡 Thank you for visiting my Github Profile 🧡
+
+ <h2>Languages and Tools 🛠</h2>
+
+ 
 
 </p>
