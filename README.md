@@ -71,11 +71,12 @@
 - Graphic Designer At Codechef IIST Chapter.
 
 <hr>
-</br>Please provide support by giving star if you liked it.</br>
-🧡 Thank you for visiting my Github Profile 🧡
+
 
  <h2>Languages and Tools 🛠</h2>
 
  
 
 </p>
+</br>Please provide support by giving star if you liked it.</br>
+🧡 Thank you for visiting my Github Profile 🧡
