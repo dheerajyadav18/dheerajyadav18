@@ -40,43 +40,34 @@
 - 👀 TechnoPhobia - Future_Engineer.
 - 🌱 Currently learning Data Structures and Algorithms and web development.
 - 💞 C, C++, Html5, Programming, Youtube, Research, Graphic Designing.
-
+- 💻 Graphic Designer At Codechef IIST Chapter <img src="PicsArt_07-05-09.06.02.jpg" width="28"/>
 
 </br>
 
-
-<p align='center'>
+ <h2>Languages and Tools 🛠</h2>
    <table align='center' width='250px'>
       <tr>
         
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="C" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />&nbsp;&nbsp;</td>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="C++" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
-       <td width="250" align='center'>&nbsp;&nbsp;<img alt="Github" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />&nbsp;&nbsp;   <!-- <img alt="JavaScript" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /> -->    </td>
+<td width="250" align='center'>&nbsp;&nbsp;<img alt="C++" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;</td>
+       <td width="250" align='center'>&nbsp;&nbsp;<img alt="Github" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />&nbsp;&nbsp; </td>
       </tr>
       <tr>
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="HTML5" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />&nbsp;&nbsp;</td>
 <td width="250" align='center'>&nbsp;&nbsp;<img alt="CSS3" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />&nbsp;&nbsp;</td>
-<td width="250" align='center'>&nbsp;&nbsp;<img alt="VS-Code" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
+<td width="250" align='center'>&nbsp;&nbsp;<img alt="VS-Code" width="100px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;</td>
       </tr>
-      <tr>
 
-      
-</p>
+</table>
 </br>
-
-<img src="PicsArt_07-05-09.06.02.jpg" width="40%" align="right">
-
-
-### 💻
-- Graphic Designer At Codechef IIST Chapter.
 
 <hr>
 
 
- <h2>Languages and Tools 🛠</h2>
 
- 
 
-</p>
-</br>Please provide support by giving star if you liked it.</br>
+</br>
+<p align='center'>
+Please provide support by giving star if you liked it.</br>
 🧡 Thank you for visiting my Github Profile 🧡
+</p>
