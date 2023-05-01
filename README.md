@@ -27,7 +27,7 @@
 </p>
 </br>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 
 ### About Me 🚀
@@ -39,7 +39,7 @@
 - 📫 How to reach me: <a href="mailto:dheerajyadav2200@gmail.com">dheerajyadav2200@gmail.com</a>
 - 📄 Know about my experiences, my *Resume*: [here](https://drive.google.com/file/d/1R6WvLcHbwdz8xm5l4wg5aAhNL6QQ-xAv/view?usp=sharing)
 - 🌱 Currently learning Data Structures and Algorithms and web development.
-- 💻 Graphic Designer At Codechef IIST Chapter And UI/UX Designer at GDSC IIST <img src="PicsArt_07-05-09.06.02.jpg" width="28"/>
+- 💻 Graphic Designer At Codechef IIST Chapter And UI/UX Designer at GDSC IIST
 
 </br>
 
