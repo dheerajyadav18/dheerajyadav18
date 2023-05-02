@@ -37,7 +37,7 @@
 - 👨‍💻 All of my projects are available at https://dheerajyadav18-portfolio-dheerajyadav18.vercel.app/
 - 💬 Ask me about **Web Development, UI/UX Design, Graphic Design.**
 - 📫 How to reach me: <a href="mailto:dheerajyadav2200@gmail.com">dheerajyadav2200@gmail.com</a>
-- 📄 Know about my experiences, my *Resume*: [here](https://drive.google.com/file/d/1R6WvLcHbwdz8xm5l4wg5aAhNL6QQ-xAv/view?usp=sharing)
+- 📄 Know about my experiences, my *Resume*: [here]([https://drive.google.com/file/d/1R6WvLcHbwdz8xm5l4wg5aAhNL6QQ-xAv/view?usp=sharing](https://drive.google.com/file/d/1_j2BLLQbJqfJB0OALNlL_ne3tEK48Mji/view))
 - 🌱 Currently learning Data Structures and Algorithms and web development.
 - 💻 Graphic Designer At Codechef IIST Chapter And UI/UX Designer at GDSC IIST
 
